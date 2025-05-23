@@ -25,7 +25,8 @@
         <dependency>
             <groupId>org.taxdataexchange.core</groupId>
             <artifactId>taxdoc.generator.core</artifactId>
-            <version>2025.01.231120</version>
+            <version>2025.02.040101
+</version>
         </dependency>
     </dependencies>
 
