@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "93-173-1336",
+  "taxFormId" : "4883862",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0786521",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Marks and Sons"
+    },
+    "address" : {
+      "line1" : "31547 Ryan Junction",
+      "city" : "Ferryville",
+      "region" : "NE",
+      "postalCode" : "23785"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "pedro.doyle@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-68-0798",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alvera",
+      "last" : "Hoeger"
+    },
+    "address" : {
+      "line1" : "91021 Moen Ville",
+      "city" : "Larryshire",
+      "region" : "MI",
+      "postalCode" : "85447"
+    },
+    "email" : "miyoko.stamm@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "allocableToIRR" : 200,
+  "firstYearOfRoth" : 300,
+  "recipientAccountNumber" : "recipientAccountNumber",
+  "grossDistribution" : 400,
+  "taxableAmount" : 500,
+  "taxableAmountNotDetermined" : true,
+  "totalDistribution" : true,
+  "capitalGain" : 600,
+  "federalTaxWithheld" : 700,
+  "employeeContributions" : 800,
+  "netUnrealizedAppreciation" : 900,
+  "distributionCodes" : [ ],
+  "iraSepSimple" : true,
+  "otherAmount" : 1000,
+  "otherPercent" : 1100.0,
+  "yourPercentOfTotal" : 1200.0,
+  "totalEmployeeContributions" : 1300,
+  "foreignAccountTaxCompliance" : true,
+  "dateOfPayment" : "2025-09-14",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1400,
+      "taxId" : "72-691727",
+      "income" : 1500
+    },
+    "local" : {
+      "taxWithheld" : 1600,
+      "localityName" : "Mullermouth",
+      "income" : 1700
+    }
+  } ]
+}

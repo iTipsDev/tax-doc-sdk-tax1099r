@@ -1,0 +1,72 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "64-231-1321",
+  "taxFormId" : "9381539",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0786521",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Marks and Sons"
+    },
+    "address" : {
+      "line1" : "31547 Ryan Junction",
+      "city" : "Ferryville",
+      "region" : "NE",
+      "postalCode" : "23785"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "pedro.doyle@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-22-6768",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Scott",
+      "last" : "Tillman"
+    },
+    "address" : {
+      "line1" : "546 Treena Vista",
+      "city" : "Brandonport",
+      "region" : "VA",
+      "postalCode" : "29151"
+    },
+    "email" : "williams.waelchi@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "allocableToIRR" : 200,
+  "firstYearOfRoth" : 300,
+  "recipientAccountNumber" : "recipientAccountNumber",
+  "grossDistribution" : 400,
+  "taxableAmount" : 500,
+  "taxableAmountNotDetermined" : true,
+  "totalDistribution" : true,
+  "capitalGain" : 600,
+  "federalTaxWithheld" : 700,
+  "employeeContributions" : 800,
+  "netUnrealizedAppreciation" : 900,
+  "distributionCodes" : [ ],
+  "iraSepSimple" : true,
+  "otherAmount" : 1000,
+  "otherPercent" : 1100.0,
+  "yourPercentOfTotal" : 1200.0,
+  "totalEmployeeContributions" : 1300,
+  "foreignAccountTaxCompliance" : true,
+  "dateOfPayment" : "2025-08-23",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1400,
+      "taxId" : "75-965370",
+      "income" : 1500
+    },
+    "local" : {
+      "taxWithheld" : 1600,
+      "localityName" : "Dominiqueview",
+      "income" : 1700
+    }
+  } ]
+}

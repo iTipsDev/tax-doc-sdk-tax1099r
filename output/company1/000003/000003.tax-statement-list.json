@@ -1,0 +1,79 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1099R" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "90-314-1717",
+        "issuer" : {
+          "tin" : "00-0527146",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Rempel, Greenfelder and Lang"
+          },
+          "address" : {
+            "line1" : "77705 Melanie Path",
+            "city" : "Coreyhaven",
+            "region" : "TX",
+            "postalCode" : "66054"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "mauro.davis@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-43-6331",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Gracie",
+            "last" : "Mueller"
+          },
+          "address" : {
+            "line1" : "642 Murphy Keys",
+            "city" : "Port Gabriel",
+            "region" : "NH",
+            "postalCode" : "68930"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "herschel.ernser@hotmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "allocableToIRR" : 200,
+        "firstYearOfRoth" : 300,
+        "recipientAccountNumber" : "recipientAccountNumber",
+        "grossDistribution" : 400,
+        "taxableAmount" : 500,
+        "taxableAmountNotDetermined" : true,
+        "totalDistribution" : true,
+        "capitalGain" : 600,
+        "federalTaxWithheld" : 700,
+        "employeeContributions" : 800,
+        "netUnrealizedAppreciation" : 900,
+        "distributionCodes" : [ ],
+        "iraSepSimple" : true,
+        "otherAmount" : 1000,
+        "totalEmployeeContributions" : 1100,
+        "foreignAccountTaxCompliance" : true,
+        "stateAndLocal" : [ {
+          "stateCode" : "AA",
+          "state" : {
+            "taxWithheld" : 1200,
+            "taxId" : "66-474084",
+            "income" : 1300
+          },
+          "local" : {
+            "taxWithheld" : 1400,
+            "localityName" : "New Buffy",
+            "income" : 1500
+          }
+        } ]
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
