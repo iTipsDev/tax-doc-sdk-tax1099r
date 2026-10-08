@@ -1,0 +1,82 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "48-602-1440",
+  "taxFormId" : "4875356",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0906890",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Altenwerth-Turcotte"
+    },
+    "address" : {
+      "line1" : "5972 Teddy Mall",
+      "city" : "West Venaside",
+      "region" : "WI",
+      "postalCode" : "60177",
+      "unitType" : "Apt",
+      "unitNumber" : "541"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "elmer.littel@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-94-5119",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jerald",
+      "middle" : "Princess",
+      "last" : "Kautzer"
+    },
+    "businessName" : {
+      "name1" : "Ruecker-Marks"
+    },
+    "address" : {
+      "line1" : "571 Watsica Unions",
+      "city" : "Port Daryl",
+      "region" : "VA",
+      "postalCode" : "41557",
+      "unitType" : "Apt",
+      "unitNumber" : "992"
+    },
+    "email" : "mafalda.haag@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "recipientAccountNumber" : "983-66843-3",
+  "grossDistribution" : 200,
+  "taxableAmount" : 300,
+  "taxableAmountNotDetermined" : true,
+  "totalDistribution" : true,
+  "capitalGain" : 400,
+  "federalTaxWithheld" : 500,
+  "employeeContributions" : 600,
+  "netUnrealizedAppreciation" : 700,
+  "distributionCodes" : [ "A" ],
+  "iraSepSimple" : true,
+  "trumpAccount" : true,
+  "earnings" : 800,
+  "otherAmount" : 900,
+  "otherPercent" : 1000.0,
+  "yourPercentOfTotal" : 1100.0,
+  "totalEmployeeContributions" : 1200,
+  "allocableToIRR" : 1300,
+  "firstYearOfRoth" : 1400,
+  "foreignAccountTaxCompliance" : true,
+  "dateOfPayment" : "2026-01-16",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1500,
+      "taxId" : "29-339578",
+      "income" : 1600
+    },
+    "local" : {
+      "taxWithheld" : 1700,
+      "localityName" : "North Berry",
+      "income" : 1800
+    }
+  } ]
+}

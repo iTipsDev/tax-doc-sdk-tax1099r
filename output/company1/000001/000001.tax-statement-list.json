@@ -1,0 +1,79 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1099R" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "88-280-7508",
+        "issuer" : {
+          "tin" : "00-0527146",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Rempel, Greenfelder and Lang"
+          },
+          "address" : {
+            "line1" : "77705 Melanie Path",
+            "city" : "Coreyhaven",
+            "region" : "TX",
+            "postalCode" : "66054"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "mauro.davis@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-32-4163",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Kiana",
+            "last" : "Luettgen"
+          },
+          "address" : {
+            "line1" : "138 Bertha Tunnel",
+            "city" : "Kellibury",
+            "region" : "IL",
+            "postalCode" : "03903"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "anthony.hansen@yahoo.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "allocableToIRR" : 200,
+        "firstYearOfRoth" : 300,
+        "recipientAccountNumber" : "recipientAccountNumber",
+        "grossDistribution" : 400,
+        "taxableAmount" : 500,
+        "taxableAmountNotDetermined" : true,
+        "totalDistribution" : true,
+        "capitalGain" : 600,
+        "federalTaxWithheld" : 700,
+        "employeeContributions" : 800,
+        "netUnrealizedAppreciation" : 900,
+        "distributionCodes" : [ ],
+        "iraSepSimple" : true,
+        "otherAmount" : 1000,
+        "totalEmployeeContributions" : 1100,
+        "foreignAccountTaxCompliance" : true,
+        "stateAndLocal" : [ {
+          "stateCode" : "AA",
+          "state" : {
+            "taxWithheld" : 1200,
+            "taxId" : "59-343329",
+            "income" : 1300
+          },
+          "local" : {
+            "taxWithheld" : 1400,
+            "localityName" : "Heidenreichland",
+            "income" : 1500
+          }
+        } ]
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

@@ -1,0 +1,82 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "51-247-1489",
+  "taxFormId" : "9889163",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0906890",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Altenwerth-Turcotte"
+    },
+    "address" : {
+      "line1" : "5972 Teddy Mall",
+      "city" : "West Venaside",
+      "region" : "WI",
+      "postalCode" : "60177",
+      "unitType" : "Apt",
+      "unitNumber" : "541"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "elmer.littel@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-78-6117",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lou",
+      "middle" : "Ella",
+      "last" : "Hegmann"
+    },
+    "businessName" : {
+      "name1" : "Mertz-Thompson"
+    },
+    "address" : {
+      "line1" : "68573 Fadel Shores",
+      "city" : "West Jeffrey",
+      "region" : "NM",
+      "postalCode" : "73984",
+      "unitType" : "Apt",
+      "unitNumber" : "129"
+    },
+    "email" : "valarie.kuvalis@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "recipientAccountNumber" : "603-07193-3",
+  "grossDistribution" : 200,
+  "taxableAmount" : 300,
+  "taxableAmountNotDetermined" : true,
+  "totalDistribution" : true,
+  "capitalGain" : 400,
+  "federalTaxWithheld" : 500,
+  "employeeContributions" : 600,
+  "netUnrealizedAppreciation" : 700,
+  "distributionCodes" : [ "M" ],
+  "iraSepSimple" : true,
+  "trumpAccount" : true,
+  "earnings" : 800,
+  "otherAmount" : 900,
+  "otherPercent" : 1000.0,
+  "yourPercentOfTotal" : 1100.0,
+  "totalEmployeeContributions" : 1200,
+  "allocableToIRR" : 1300,
+  "firstYearOfRoth" : 1400,
+  "foreignAccountTaxCompliance" : true,
+  "dateOfPayment" : "2026-05-19",
+  "stateAndLocal" : [ {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1500,
+      "taxId" : "86-805621",
+      "income" : 1600
+    },
+    "local" : {
+      "taxWithheld" : 1700,
+      "localityName" : "Shannonchester",
+      "income" : 1800
+    }
+  } ]
+}
